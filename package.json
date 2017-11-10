@@ -1,7 +1,7 @@
 {
   "name": "weibo-util",
   "version": "1.0.0",
-  "description": "weibo id2mid, mid2id, urlFromMidUid, midFromURL",
+  "description": "weibo id2mid, mid2id, getMidUid, getUrl",
   "main": "./distribution/index.js",
   "scripts": {
     "build": "babel source --presets babel-preset-es2015 --out-dir distribution",
